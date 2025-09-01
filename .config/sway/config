@@ -234,4 +234,7 @@ bar {
     }
 }
 
+# Special window config
+for_window [shell="xwayland"] title_format "[XWayland] %title"
+
 include /etc/sway/config.d/*
