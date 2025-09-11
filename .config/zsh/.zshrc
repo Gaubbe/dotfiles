@@ -10,3 +10,5 @@ compinit
 promptinit
 
 prompt redhat
+
+alias ls='ls --color=auto'
