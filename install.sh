@@ -2,4 +2,5 @@
 
 # List all configs here
 stow -d . -t $HOME --dotfiles \
-	-R zsh
+	-R zsh \
+	-R git

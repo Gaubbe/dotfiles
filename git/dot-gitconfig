@@ -1,0 +1,11 @@
+[alias]
+	graph = log --graph --all --oneline
+[init]
+	defaultBranch = main
+[user]
+	email = gabriel12125@gmail.com
+	name = Gaubbe
+[core]
+	editor = nvim
+[diff]
+	wsErrorHighlight = all
