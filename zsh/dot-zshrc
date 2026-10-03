@@ -1,0 +1,8 @@
+# Prompt
+PS1="%F{blue}%B%~%b%f %F{green}>%f "
+
+# Vim bindings
+bindkey -v
+
+# Completion
+autolaod -U compinit && compinit
